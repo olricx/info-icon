@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'icomoon';
-    src:  url('../fonts/icomoon.eot?j6zczk');
-    src:  url('../fonts/icomoon.eot?j6zczk#iefix') format('embedded-opentype'),
-      url('../fonts/icomoon.ttf?j6zczk') format('truetype'),
-      url('../fonts/icomoon.woff?j6zczk') format('woff'),
-      url('../fonts/icomoon.svg?j6zczk#icomoon') format('svg');
+    src:  url('https://gitlab.com/Ronesh/info-icon/blob/master/fonts/icomoon.eot?j6zczk');
+    src:  url('https://gitlab.com/Ronesh/info-icon/blob/master/fonts/icomoon.eot?j6zczk#iefix') format('embedded-opentype'),
+      url('https://gitlab.com/Ronesh/info-icon/blob/master/fonts/icomoon.ttf?j6zczk') format('truetype'),
+      url('https://gitlab.com/Ronesh/info-icon/blob/master/fonts/icomoon.woff?j6zczk') format('woff'),
+      url('https://gitlab.com/Ronesh/info-icon/blob/master/fonts/icomoon.svg?j6zczk#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
   }
